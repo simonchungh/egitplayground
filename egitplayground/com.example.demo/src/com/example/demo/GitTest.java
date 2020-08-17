@@ -2,7 +2,7 @@ package com.example.demo;
 
 public class GitTest {
 	public static void main(String[] args) {
-		System.out.println("Git is 5"); 
+		System.out.println("Git is 6"); 
 	}
 	
 }
